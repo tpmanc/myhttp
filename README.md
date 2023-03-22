@@ -14,7 +14,7 @@ The tool performs the requests in parallel. By default, number of parallel reque
 with flag `-parallel [int]`. This number should be grater than 0. 
 
 #### Error handling
-If some invalid URLIf some invalid url provided, they will be printed to logs with error message.
+If some invalid url provided, they will be printed to logs with error message.
 
 ## Install
 ```
